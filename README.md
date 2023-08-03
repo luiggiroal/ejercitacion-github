@@ -23,7 +23,7 @@ Ejercicio sobre el uso grupal de Git y Github.
    - `git push origin main` <br><br>
 
 6. **_Se esperará hasta las 9pm del domingo 6 de agosto antes de compartir en el Discord del curso el link del repositorio junto con los nombres de los colaboradores
-   que aportaron al trabajo hasta ese momento._**
+   que aportaron al trabajo hasta ese momento de acuerdo al historial de los commits realizados a este repositorio remoto._**
 
 ## Colaboradores que aportaron al repositorio (hasta la fecha)
 
